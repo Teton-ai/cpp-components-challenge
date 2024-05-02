@@ -20,6 +20,8 @@ Implement two different processing each with its own image processing algorithm.
 1. **Optical Flow**: Implement an optical flow algorithm to detect motion in the video stream.
 1. **Circle Detection**: Implement a circle detection algorithm to detect circles in the video stream.
 
+Feel free to choose any other image processing algorithms that you find interesting.
+
 ### Process 4: Aggregation and Visualization
 
 The last process should aggregate the results from the other processes and display the results. It should receive both the original frame and the processed frames from the other processes and display them side by side.
